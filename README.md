@@ -1,16 +1,9 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yyPCU/giphy.gif" width="600" alt="Matrix Hacker">
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Kunal Rajput</h1>
-<h3 align="center">💻 A Passionate Data Analyst from India 🇮🇳 | Turning Raw Data into Gold 📊</h3>
+<h3 align="center">A Passionate Data Analyst from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithkunal07&label=Profile%20Views&color=0e75b6&style=flat" alt="codewithkunal07" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codewithkunal07&theme=matrix&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=codewithkunal07&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkunal07" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithkunal07&theme=gruvbox&margin-w=15&margin-h=15" alt="trophy" /></a>
 </p>
 
 ---
@@ -33,10 +26,16 @@
 - Data Cleaning, SQL Queries, Dashboard Creation, and Excel Analytics
 
 ### 📫 How to reach me
-- **Email:** ds.kunal.rajput@gmail.com
+- Email: **ds.kunal.rajput@gmail.com**
 
 ### 👨‍💻 All of my projects are available at
 - [GitHub Portfolio](https://github.com/codewithkunal07)
+
+### 📝 I regularly write articles on
+- *(Coming Soon)* Data Analysis Blogs
+
+### 📄 Know about my experiences
+- [My Resume](https://drive.google.com/file/d/your-resume-link/view)
 
 ### ⚡ Fun fact
 - I think I’m funny 😄
@@ -65,9 +64,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithkunal07&show_icons=true&theme=matrix" alt="kunal-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkunal07&theme=matrix" alt="kunal-streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkunal07&layout=compact&theme=matrix" alt="kunal-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithkunal07&show_icons=true&theme=tokyonight" alt="kunal-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkunal07&theme=tokyonight" alt="kunal-streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkunal07&layout=compact&theme=tokyonight" alt="kunal-langs" />
 </p>
 
+---
 
+⭐ **Star this repo** if you like my profile and follow me for Data Analytics content!
