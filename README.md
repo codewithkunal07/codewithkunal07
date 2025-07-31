@@ -2,40 +2,22 @@
 <h3 align="center">📊 Data Analyst | 📈 Turning Data into Insights | 🇮🇳 India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithkunal07&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkunal07" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithkunal07&theme=gruvbox&margin-w=15&margin-h=15" alt="trophy" /></a>
+<a href="https://www.linkedin.com/in/kunal-93a776349/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/codewithkunal07"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ds.kunal.rajput@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔭 I’m currently working on
-- [Indian Oil Share Analysis Dashboard](https://github.com/codewithkunal07) – *Power BI & Excel project analyzing multi-year trading data*
-- [E-commerce Sales Database](https://github.com/codewithkunal07) – *SQL-based sales trend & performance analysis*
+## 🚀 About Me
+- 🎓 **BCA Student** @ Vishveshwarya Group of Institution (2023–2026)  
+- 💡 Passionate about **Data Analysis, Visualization & Reporting**  
+- 📚 Skilled in **SQL, Excel, Power BI** with hands-on projects  
+- 🎯 Goal: **Transform raw data into actionable insights**  
 
-### 👯 I’m looking to collaborate on
-- Data Analysis & Visualization Projects
-- SQL & Dashboard Development
+---
 
-### 🤝 I’m looking for help with
-- Learning advanced Power BI & DAX for complex business analytics
-
-### 🌱 I’m currently learning
-- Advanced SQL, Power BI DAX, and Python for Data Analytics
-
-### 💬 Ask me about
-- Data Cleaning, SQL Queries, Dashboard Creation, and Excel Analytics
-
-### 📫 How to reach me
-- Email: **ds.kunal.rajput@gmail.com**
-
-### 👨‍💻 All of my projects are available at
-- [GitHub Portfolio](https://github.com/codewithkunal07)
-
-### 📝 I regularly write articles on
-- *(Coming Soon)* Data Analysis Blogs
-
-### 📄 Know about my experiences
-- [My Resume](https://drive.google.com/file/d/your-resume-link/view)
+## 💻 Tech Stack
 
 **Languages & Databases**  
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -74,5 +56,4 @@
 [![LinkedIn](https://img.shields.io/badge/-Kunal_Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-93a776349/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithkunal07)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ds.kunal.rajput@gmail.com)  
-
 
