@@ -1,7 +1,7 @@
-<!-- MATRIX HACKER GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yyPCU/giphy.gif" width="600" alt="Matrix Hacker">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Kunal Rajput</h1>
 <h3 align="center">💻 A Passionate Data Analyst from India 🇮🇳 | Turning Raw Data into Gold 📊</h3>
