@@ -1,48 +1,72 @@
-# 👋 Hello there! I'm Kunal
+<h1 align="center">Hi 👋, I'm Kunal Rajput</h1>
+<h3 align="center">A Passionate Data Analyst from India 🇮🇳</h3>
 
-I'm a BCA student passionate about making data meaningful and beautiful. I love working with SQL, Power BI, and Excel to turn raw datasets into crisp stories and smart dashboards. I believe that every chart should speak and every query should reveal something exciting.
-
-## 🎯 What I'm Learning & Building
-- 🔍 Writing advanced **SQL** queries with joins, subqueries & analytical filters
-- 📊 Designing dashboards in **Power BI** that bring insights to life
-- 📈 Using **Excel** for interactive reports with slicers, pivot tables & charts
-- 🐍 Exploring **Python basics** for data-driven problem-solving
-- 📁 Organizing professional GitHub repositories with clean folder structures
-
-## 💼 My Projects
-- 🛒 **E-commerce SQL Project** – Built a relational database using MySQL with insightful queries on customers, orders & sales trends [June 2025]
-- 📊 **Sales Dashboard in Excel** – Visualized multi-year performance with charts, slicers, maps & KPI tracking [April 2025]
-
-## 🧠 Certifications & Practice
-- 🧮 **Data Analytics & Visualization** – Accenture North America (Forage)
-- 📊 **Data Visualization** – Tata Group (Forage)
-- 🧠 **Excel (Intermediate & Advanced)** – Be10x
-- 💻 **SQL Masterclass** – Be10x
-
-## 📌 Short-Term Goals
-- 📢 Post a walkthrough of my Power BI Sales Dashboard on LinkedIn
-- 📝 Craft engaging LinkedIn content that showcases my SQL & analytics skills
-- 💻 Strengthen Python foundations to prepare for data interviews
-
-## ✨ What Drives Me
-I’m methodical, curious, and inspired by the power of storytelling with data. My work is guided by clarity, creativity, and a desire to grow—step by step, project by project.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithkunal07&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkunal07" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithkunal07&theme=gruvbox&margin-w=15&margin-h=15" alt="trophy" /></a>
+</p>
 
 ---
 
-> _“Insights aren’t just found—they’re created.”_
+### 🔭 I’m currently working on
+- [Indian Oil Share Analysis Dashboard](https://github.com/codewithkunal07) – *Power BI & Excel project analyzing multi-year trading data*
+- [E-commerce Sales Database](https://github.com/codewithkunal07) – *SQL-based sales trend & performance analysis*
 
-Thanks for checking out my space on GitHub! 😊 Feel free to explore my repositories.
-<!--
-**codewithkunal07/codewithkunal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👯 I’m looking to collaborate on
+- Data Analysis & Visualization Projects
+- SQL & Dashboard Development
 
-Here are some ideas to get you started:
+### 🤝 I’m looking for help with
+- Learning advanced Power BI & DAX for complex business analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Advanced SQL, Power BI DAX, and Python for Data Analytics
+
+### 💬 Ask me about
+- Data Cleaning, SQL Queries, Dashboard Creation, and Excel Analytics
+
+### 📫 How to reach me
+- Email: **ds.kunal.rajput@gmail.com**
+
+### 👨‍💻 All of my projects are available at
+- [GitHub Portfolio](https://github.com/codewithkunal07)
+
+### 📝 I regularly write articles on
+- *(Coming Soon)* Data Analysis Blogs
+
+### 📄 Know about my experiences
+- [My Resume](https://drive.google.com/file/d/your-resume-link/view)
+
+### ⚡ Fun fact
+- I think I’m funny 😄
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Databases
+`SQL` `MySQL`
+
+### 📊 Data Visualization
+`Power BI` `Advanced Excel`
+
+### 🔍 Data Analysis Tools
+`PivotTables` `Slicers` `Interactive Dashboards`
+
+---
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kunal-93a776349/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/codewithkunal07) 
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle)](https://www.kaggle.com) 
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithkunal07&show_icons=true&theme=tokyonight" alt="kunal-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkunal07&theme=tokyonight" alt="kunal-streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkunal07&layout=compact&theme=tokyonight" alt="kunal-langs" />
+</p>
+
+
