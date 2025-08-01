@@ -1,5 +1,7 @@
 <h1 align="center">🌟 Hey, I'm <span style="color:#00FF7F;">Kunal Rajput</span> 👋</h1>
-<h3 align="center">📊 Data Analyst | 📈 Turning Data into Insights | 🇮🇳 India</h3>
+<h3 align="center">📊 Data Analyst | 📈 Turning Data into Insights |
+  Nulls Whisper, I Decode | SQL, Excel, Power BI & Python | Crafting Data-Driven Decisions
+  🇮🇳 India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithkunal07&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkunal07" /> 
